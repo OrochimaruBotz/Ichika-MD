@@ -25,10 +25,10 @@ global.APIKeys = {
 }
 
 // KALO MAU RECODE TINGGALIN CREDIT DEVELOPER YA, JGN CUMA NUMPANG NAMA
-global.owner = ['17608914335']
-global.premium = ['17608914335']
+global.owner = ['6288804947282']
+global.premium = ['6288804947282']
 global.packname = 'Ichika-MD'
-global.author = 'Recode By Papah-Chan\n\n\ntemukan Ichika-MD di\nYoutube bit.ly/Papah-Chan'
+global.author = 'Recode By Humanz\n\n\ntemukan Ichika-MD di\nYoutube bit.ly/Papah-Chan'
 global.sessionName = 'session.data'
 global.prefa = ['','!','.','k','#']
 global.sp = '⭔'
